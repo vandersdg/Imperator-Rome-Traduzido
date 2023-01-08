@@ -1,6 +1,6 @@
-name="Better Chinese localization Hotfix"
+name="Portuguese localization"
 tags={
 	"Localization"
 }
-supported_version="1.0.1"
-remote_file_id="1723175563"
+supported_version="1.0"
+remote_file_id=""
