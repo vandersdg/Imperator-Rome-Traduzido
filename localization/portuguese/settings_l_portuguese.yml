@@ -3,7 +3,7 @@
  SETTING_LAST_HOST:0 "Último anfitrião"
  SETTING_LAST_PLAYER:0 "Último jogador"
  SETTING_DIFFICULTY:0 "Dificuldade"
- SETTING_AUTOSAVE:0 "Intervalo de salvamentos automática"
+ SETTING_AUTOSAVE:0 "Intervalo de salvamentos automáticos"
  SETTING_DEBUG_SAVES:0 "Número de salvamentos de depuração"
  SETTING_WINDOW_MOVE_TIME:0 "Tempo de movimento da janela"
  SETTING_RADIAL_STAY_TIME:0 "Tempo de permanência radial"
