@@ -1,5 +1,5 @@
 ﻿l_portuguese:
- PREVIOUS:0 "Volver"
+ PREVIOUS:0 "Voltar"
  PREVIOUS_CHARACTER_VIEW:0 "#T Voltar para: [CharactersView.GetPreviousName]#!"
  PREVIOUS_CHARACTER_WINDOW:0 "#T Voltar para: [CharacterWindow.GetPreviousName]#!"
  PREVIOUS_DIPLOMATIC_VIEW:0 "#T Voltar para: [DiplomaticView.GetPreviousName]#!"
@@ -66,7 +66,7 @@
  NATION_OVERVIEW_MENU:0 "#T Panorama da Nação#!\nUma visão geral do seu país. Isso inclui o total de #Y População#! dados demográficos e contém uma lista das #Y Províncias#!. Você também pode definir ou alterar suas #Y Ideias Nacionais#!."
  ECONOMY_MENU_HEADER:0 "Economia"
  ECONOMY_MENU_HEADER_TT:0 "$ECONOMY_MENU$"
- ECONOMY_MENU:4 "#T Economia#!\nVeja seu #SaldoY#! de receitas e despesas e defina suas #Y Políticas Econômicas#!."
+ ECONOMY_MENU:4 "#T Economia#!\nVeja seu #Y Saldo#! de receitas e despesas e defina suas #Y Políticas Econômicas#!."
  DIPLOMACY_MENU_HEADER:0 "Diplomacia"
  DIPLOMACY_MENU_HEADER_TT:0 "$DIPLOMACY_MENU$"
  DIPLOMACY_MENU:1 "#T Diplomacia#!\nAqui, você pode gerenciar a #Y Diplomacia#! com outras nações. Veja suas #Y Opiniões#! de você e uma análise das estatísticas relevantes para a sua diplomacia."
