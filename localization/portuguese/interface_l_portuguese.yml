@@ -105,7 +105,7 @@
  MERCENARY_MENU:0 "#T Mercenários#!\nVeja um detalhamento dos #Y Mercenários#! disponíveis, seus detalhes e custo. Você também pode #Y Contratar#! e #Y Demitir#! eles desta janela."
  TECHNOLOGY_MENU_HEADER:0 "Tecnologia"
  TECHNOLOGY_MENU_HEADER_TT:0 "$TECHNOLOGY_MENU$"
- TECHNOLOGY_MENU:0 "#T Technology#!\nVeja sua progressão de #Y Tecnologia#! nesta janela. Você também pode atribuir ou remover #Y Pesquisadores#! e custear novas #Y Invenções#!."
+ TECHNOLOGY_MENU:0 "#T Tecnologia#!\nVeja sua progressão de #Y Tecnologia#! nesta janela. Você também pode atribuir ou remover #Y Pesquisadores#! e custear novas #Y Invenções#!."
  GOVERNMENT_MENU_HEADER:0 "Governo"
  GOVERNMENT_MENU_HEADER_TT:0 "$GOVERNMENT_MENU$"
  GOVERNMENT_MENU:3 "#T Governo #!\nVeja a situação atual do seu #Y Senado#!, #Y Conselho#! ou #Y Tribunal#!. Nomeie ou remova Oficiais, aprove #Y Leis#! e veja informações específicas do governo, como #Y Líderes Partidários#!, #Y Pretendentes#!, ou #Y Chefes de Clã#!."
