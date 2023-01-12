@@ -1,0 +1,4 @@
+﻿l_portuguese:
+ #####Loans
+ num_of_loans_tooltip:1 "\t\t\t\t\t\t\t\t[SCOPE.sCountry('actor').GetName|Y] tem menos que #Y 3#! empréstimos."
+ rule_pop_greater_than_target_loyalty:0 "\t\t\t\t\t\t\t\tA popularidade do Regente é maior do que a lealdade de [SCOPE.sChar('target').GetName]."
