@@ -28,6 +28,3 @@
  SETTINGS:0 "Definições"
  REQUIRES_RESTART:0 "Requer reinicialização"
  REQUIRE_RESTART_DESCRIPTION:0 "Algumas configurações não terão efeito até que você reinicie o jogo."
-# Orphaned keys
- SETTING_REFRACTION_QUALITY:0 "Qualidade de Refração"
- SETTING_MAPOBJECT_QUALITY:0 "Qualidade de Objetos do Mapa"

@@ -1,0 +1,3 @@
+﻿l_portuguese:
+ FILE_WRITE_ERROR:1 "Falha ao criar o jogo salvo"
+ FILE_WRITE_ERROR_DESC:1 "O jogo não conseguiu criar um salvamento. Isso pode ser devido a:\n- Não há espaço suficiente no disco\n- Problemas de permissão de arquivo\n- Software antivírus ou de proteção contra ransomware\n- Corrupção de arquivos do jogo\n- Problemas causados por Mods instalados"

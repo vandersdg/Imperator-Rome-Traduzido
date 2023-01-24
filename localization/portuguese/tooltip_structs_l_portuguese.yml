@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_portuguese:
  game_concept_struct:0 "#TOOLTIP:GAME_CONCEPT,$DESC_KEY$ $KEY_LOC$#!"
  game_date_struct:0 "#TOOLTIP:DATE,$DESC_KEY$ $KEY_LOC|L$#!"
  game_static_modifier_struct_positive:0 "#TOOLTIP:STATIC_MODIFIER,$DESC_KEY$ #P $KEY_LOC|L$#!#!"

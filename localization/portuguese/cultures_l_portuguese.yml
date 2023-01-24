@@ -14,7 +14,7 @@
  west_levantine:0 "Levantina"
  gaelic:0 "Gaélica"
  gallic:0 "Gálica"
- germanic:0 "Germánica"
+ germanic:0 "Germânica"
  iberia:0 "Ibérico"
  illyria:0 "Iliria"
  indian:0 "Dravídica"
@@ -65,7 +65,7 @@
  cornovian:0 "Cornoviano"
  brigantic:0 "Brigante"
  votadinian:0 "Votadinio"
- damnonian:0 "Damnonés"
+ damnonian:0 "Damnonês"
  taexalian:0 "Taexalio"
  #Celtiberian
  vasconian:0 "Vasco"
@@ -110,7 +110,7 @@
  salluvian:0 "Alluvia" # [LocEditor:AwaitingBatchUpdate]
  haedui:0 "Haedui"
  carnuti:0 "Carnuti"
- santonian:0 "Sántono"
+ santonian:0 "Sântono"
  lemovician:0 "Lemovice"
  pictonian:0 "Pictonio"
  suessionian:0 "Suessonia"
@@ -137,7 +137,7 @@
  #Germanic
  aestian:0 "Aestio"
  raumarician:0 "Raumaricio"
- vandal:0 "Vándalo"
+ vandal:0 "Vândalo"
  suiones:0 "Suioni"
  gutones:0 "Gutoni"
  saxonian:0 "Sajona"
@@ -206,7 +206,7 @@
  deraemestian:0 "Deraemesta"
  deurian:0 "Deudoria"
  #Indian
- kannadan:0 "Canarés"
+ kannadan:0 "Canarês"
  tamil:0 "Tamil"
  telugu:0 "Telugu"
  #Latin
