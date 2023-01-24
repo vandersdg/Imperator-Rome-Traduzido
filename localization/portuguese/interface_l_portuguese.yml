@@ -1805,7 +1805,7 @@
  COHORT_STATS:0 "Estatísticas Terrestres"
  NAVY_STATS_TITLE:0 "Estatísticas Marítimas"
  ###Character Rightclick Menu
- CHARACTER_INTERACTIONS_SUBTITLE:0 "Interações de Personagens"
+ CHARACTER_INTERACTIONS_SUBTITLE:0 "Interações do Personagem"
  SORT_POP_COUNT_TT:0 "#t Ordenar por número de pops na cultura#!"
  SHOW_INTEGRATED_TT:0 "#t Mostrar apenas Culturas Integradas#!\n#TF As Culturas Integradas são culturas às quais foi concedido o direito cívico de cidadania ou superior."
  SHOW_CULTURE_GROUPS_TT:1 "#t Mostrar apenas Grupos Culturais selecionados#!"
