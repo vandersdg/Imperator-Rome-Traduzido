@@ -1,0 +1,53 @@
+﻿l_portuguese:
+ # CONSTRUCT BUILDINGS
+ construct_buildings_TOOLTIP:1 "#t Construir Edifícios de Assentamento#!"
+ construct_buildings:1 "Construir Edifícios de Assentamento"
+ MACROBUILDER_BUILDING_PRICE:1 "#t Construir $NAME$ em [PROVINCE.GetName]#!\nCustará [COUNTRY.GetName] $VALUE$ para construir um $NAME|Y$ em [PROVINCE.GetName], e dará os seguintes benefícios:\n$DESC$\n[PROVINCE.GetPopulationInfo]"
+ MACRO_BUILDER_BUILD_BUILDING_TOOLTIP:0 "#t Construir $NAME$#!\n$DESC$"
+ MACRO_BUILD_BUILD_COST:0 "$VAL|2$ @gold!"
+ MARCO_BUILDER_BUILD_BUILDING_INSTRUCTIONS_TOOLTIP:0 "\n#G Clique esquerdo#! construirá um edifício.\n#G Clique direito#! cancelará um edifício na fila ou destruirá um edifício se não houver nenhum na fila."
+ #Construct City Buildings
+ construct_city_buildings_TOOLTIP:0 "#t Construir Edifícios da Cidade#!"
+ construct_city_buildings:0 "Construir Edifícios da Cidade"
+ 
+ # RECRUIT COHORTS
+ recruit_units:1 "Recrutar Coortes"
+ recruit_units_TOOLTIP:2 "#t $recruit_units$#!"
+ MACROBUILDER_UNIT_PRICE:2 "#t Construir $NAME$ em [PROVINCE.GetName]#!\nCustará [COUNTRY.GetName] $VALUE$ para construir $NAME|Y$ em [PROVINCE.GetName]"
+ MACRO_BUILDER_BUILD_UNIT_TOOLTIP:0 "#t Recrutar $NAME$#!\n$DESC$"
+
+ MACRO_UNIT_BUILD_COST:0 "$VAL|2$ @gold!"
+ 
+ # RECRUIT SHIPS
+ recruit_naval_units:2 "Construir Navios"
+ recruit_naval_units_TOOLTIP:1 "#t $recruit_naval_units$#!"
+ 
+ # PROMOTE POPS
+ promote_pops:0 "Promover Pops"
+ promote_pops_TOOLTIP:1 "#t $promote_pops$#!"
+ MACROBUILDER_PROMOTE_POP_TOOLTIP:1 "#t Promover $NAME$#!\nUm $NAME$ é promovido a $TARGET_NAME|Y$:\n$TARGET_DESC$"
+ MACROBUILDER_PROMOTE_POP_NOTARGET_TOOLTIP:0 "$NAME$ não pode ser promovido."
+ MACROBUILDER_PROMOTE_POP_PRICE:1 "#t Promover um $NAME$ a $TARGET_NAME$ em [PROVINCE.GetName]#!\nCustará [COUNTRY.GetName] $VALUE$ para promover um $NAME$ a $TARGET_NAME|Y$ em [PROVINCE.GetName]\n[PROVINCE.GetPopulationInfo]"
+ 
+ # CONVERT POPS
+ convert_pops:0 "Converter Pops"
+ convert_pops_TOOLTIP:1 "#t $convert_pops$#!"
+ MACROBUILDER_CONVERT_POP_TOOLTIP:1 "#t Converter $NAME$#!\nUm $NAME$ é convertido a [COUNTRY.GetReligion.GetName|Y]"
+ MACROBUILDER_CONVERT_POP_PRICE:1 "#t Converter um $NAME$ a [COUNTRY.GetReligion.GetName]#!\nCustará [COUNTRY.GetName] $VALUE$ para converter um $NAME$ a [COUNTRY.GetReligion.GetName|Y] em [PROVINCE.GetName]\n\n[PROVINCE.GetReligionBreakdown]"
+
+ # ASSIMILATE POPS
+ assimilate_pops:0 "Assimilar Pops"
+ assimilate_pops_TOOLTIP:1 "#t $assimilate_pops$#!"
+ MACROBUILDER_ASSIMILATE_POP_TOOLTIP:1 "#t Assimilar $NAME$#!\nUm $NAME$ é convertido a [COUNTRY.GetPrimaryCulture.GetName|Y]"
+ MACROBUILDER_ASSIMILATE_POP_PRICE:1 "#t Assimilar um $NAME$ a [COUNTRY.GetPrimaryCulture.GetName] em [PROVINCE.GetName]#!\nCustará [COUNTRY.GetName] $VALUE$ para converter um $NAME$ a [COUNTRY.GetPrimaryCulture.GetName|Y] em [PROVINCE.GetName]\n\n[PROVINCE.GetCultureBreakdown]"
+
+ # IMPORT TRADE GOODS
+ import_tradegood:0 "Importar Bens Comerciais"
+ import_tradegood_TOOLTIP:1 "#t $import_tradegood$#!"
+ MACRO_BUILDER_TRADE_GOOD_TOOLTIP:0 "#t Importar [TRADE_GOOD.GetName]#!\n[TRADE_GOOD.GetLongDescription]"
+
+ MACRO_BUILDER_COST:0 "#t Custo#!\n[MacroBuilderProvinceBuildable.GetPriceTooltip]"
+ 
+ # SORTING
+ MACRO_BUILDER_SORT_PROVINCE_NAME_TT:0 "#t Ordenar por nome da Província#!"
+ MACRO_BUILDER_SORT_BUILD_AMOUNT_TT:0 "#t Ordenar por qtd. que se pode construir#!"

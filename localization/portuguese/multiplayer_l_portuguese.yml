@@ -1,0 +1,5 @@
+﻿l_portuguese:
+ RANDOM_COUNT:0 "Contagem aleatória"
+ RANDOM_SEED:0 "Semente aleatória"
+ GAMESTATE_CHECKSUM:0 "Soma de verificação do estado do jogo"
+ LIVING_CHARACTERS:0 "Personagens vivos"
