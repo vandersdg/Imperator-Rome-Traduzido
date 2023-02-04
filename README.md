@@ -1,2 +1,2 @@
-# Imperator-Rome-Traduzido
-Tradução em português do abandonado jogo Imperator Rome.
+# Imperator Rome - Tradução em Português
+Tradução em progresso do jogo Imperator Rome.
