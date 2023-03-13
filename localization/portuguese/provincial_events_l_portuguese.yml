@@ -1,0 +1,5 @@
+﻿l_portuguese:
+ provincial_events.1.t:0 "Tensões Locais"
+ provincial_events.1.desc:1 "As tensões têm aumentado entre os colonizadores [ROOT.GetCountry.GetPrimaryCulture.GetName] e os locais em [SCOPE.sP('colonial_province').GetName]. Os locais afirmam que nossos colonos estão rejeitando tradições e estruturas de poder locais. Por outro lado, nossos colonos afirmam que os locais estão alarmados porque o novo assentamento de [ROOT.GetCountry.GetPrimaryCulture.GetName] está ultrapassando a metrópole existente na região."
+ provincial_events.1.a:0 "Apoiar os interesses [ROOT.GetCountry.GetPrimaryCulture.GetName]."
+ provincial_events.1.b:0 "Defender o direito dos locais."

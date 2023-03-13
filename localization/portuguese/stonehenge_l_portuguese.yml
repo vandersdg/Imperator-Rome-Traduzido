@@ -1,0 +1,25 @@
+﻿l_portuguese:
+ stonehenge.1.t:0 "Na Antiguidade..."
+ stonehenge.1.desc:0 "Após meses de viagem na distante Britânia, [druid.GetName] adotou uma forma de vestir obscena. Seus cabelos fluem até seus ombros, sua túnica é bordada com o que parece ser a caixa torácica de um esqueleto, e pior de tudo, [druid.GetSheHe] usa calças bárbaras imodestas tão apertadas que [druid.GetSheHe] mal consegue se mover.\n\n"Os rituais druídicos dos britânicos são música para os meus ouvidos, e decidi que devemos adotar algumas de suas práticas." Ele entrega a [sthubbins.GetName] um pano sujo com um esboço sujo de um monumento de pedra exibindo algumas medidas grosseiras. Ele se inclina para frente e sussurra: "Stonehenge.""
+ stonehenge.1.a:0 "[ROOT.GetCountry.GetName] irá lhe acompanhar."
+ stonehenge.1.b:0 "Vá [druid.GetName], vá!"
+ stonehenge.1.c:0 "Espiritualmente nós sabemos, mas não temos o equipamento!"
+
+ ### Stonehenge construction
+ stonehenge.2.t:0 "Antes do Amanhecer da História..."
+ stonehenge.2.desc:0 "As cerimônias de [ROOT.GetCountry.GetName] têm se tornado cada vez menos populares ultimamente, e [sthubbins.GetName] tem tentado a cada vez criar um conjunto mais inventivo para chamar a atenção do público. No entanto, depois que o estilista do conjunto ficou preso e morreu de fome em uma flor do tamanho de um homem na última apresentação, Stonehenge é a única esperança de [ROOT.GetCountry.GetName]. \n\nAlguns meses após entregar os esquemas dos druidas da Britânia para os arquitetos, [sthubbins.GetName] e [druid.GetName] visitam o local da construção. Após alguns passos, [druid.GetName] tropeça e cai de cara. Parece que [druid.GetSheHe] tropeçou em um amontoado de rochas planas empilhadas até o joelho - o monumento não está em lugar algum. Gradualmente, [sthubbins.GetName] percebe que esse amontoado de pedras é o monumento.\n\n[druid.GetName] parece tranquilo: "Ainda vamos fazer o Stonehenge amanhã?""
+ stonehenge.2.a:0 "Naturalmente - não vamos fazer disso uma grande coisa."
+ stonehenge.2.b:0 "Não, é só um côvado de altura!"
+ stonehenge.2.b.tt:0 "Deveriam ser dezoito côvados"
+
+
+ ###
+ stonehenge.3.t:0 "As Flautas de Pã"
+ stonehenge.3.desc:0 "Apenas momentos antes da cerimônia de inauguração de Stonehenge no mercado central de [main_stage.GetName], foi relatado que os músicos contratados para animar o evento faleceram tragicamente em um acidente nos Jardins Suspensos da Babilônia. Apenas [sthubbins.GetName] e [druid.GetName] restaram para realizar a apresentação. Após pegar uma lira, [sthubbins.GetName], usando um novo par de calças bárbaras, imita a postura de [druid.GetName] - pernas o mais afastadas possível.\n\n"[sthubbins.GetName], toque a lira principal!" grita [druid.GetName], para a multidão composta pela guarnição de [main_stage.GetName] obrigada a se reunir ao redor do pequeno círculo de pedras."
+ stonehenge.3.a:0 "Stonehenge! Onde os demônios habitam!"
+ stonehenge.3.b:0 "Stonehenge! Onde um homem é homem!"
+ stonehenge.3.c:0 "Stonehenge! Onde as virgens jazem!"
+ 
+ 
+ 
+ stonehenge.4.desc:0 "As cerimônias de [ROOT.GetCountry.GetName] se tornaram cada vez menos populares ultimamente, e [sthubbins.GetName] tem tentado criar um conjunto mais inventivo a cada cerimônia para chamar a atenção do público. No entanto, após o cenógrafo ficar preso e morrer de fome em uma flor do tamanho de um homem na última apresentação, o Stonehenge é a única esperança de [ROOT.GetCountry.GetName].\n\nAlgum tempo depois de entregar os esquemas dos druidas da Britânia aos arquitetos de [ROOT.GetCountry.GetName], [sthubbins.GetName] e [druid.GetName] visitam o local da construção. Após alguns passos, [druid.GetName] tropeça e cai de cara no chão. Olhando para baixo, pode-se ver que [druid.GetSheHe] tropeçou em uma pilha de rochas planas empilhadas até o joelho - o monumento não está em lugar algum. Gradualmente, [sthubbins.GetName] percebe que essa pilha de pedras é o monumento.\n\n[druid.GetName] parece não se abalar: "Ainda vamos fazer o Stonehenge amanhã?""

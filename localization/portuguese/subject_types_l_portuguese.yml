@@ -1,0 +1,18 @@
+﻿l_portuguese:
+ protectorate:0 "Protetorado"
+ CANCEL_TITLE:0 "Revogar Estado de Súdito"
+ subject_merc_city_state_cost_modifier:0 "Renda do Estado Mercenário"
+ MERC_CITY_STATE_EFFECT_TT:0 "[SCOPE.GetRootScope.GetProvince.GetName|Y] tornar-se-á uma cidade livre, liderada por um mercenário local.\nEles tornar-se-ão nossos súditos, com um bônus para o seu Efetivo.\n\n"
+ SYR_merc_state_title:0 "Criar Estado Mercenário"
+ SYR_merc_state_desc:0 "Tem certeza de que deseja criar um estado mercenário? Isso criará um súdito em [SCOPE.GetRootScope.GetProvince.GetName|Y]."
+ recruit_character_mg_syr_cost_modifier:0 "Custo Modificador para Eleger Líder"
+ goes_here_becomes_king_tt:0 "[SCOPE.sChar('target').GetPraenomen|Y] move-se para [SCOPE.sC('actor').GetName|Y] e se torna [SCOPE.sC('actor').GetRulerTitle|Y]."
+ mg_recruit_cooldown_string:0 "Você não pode realizar esta ação novamente até [SCOPE.sC('actor').GetVariableExpiry('mg_recruit_cooldown')|Y]."
+ recruit_character_mg_syr:0 "Eleger Rei Mercenário"
+ create_merc_state_price:0 "Criar Estado Mercenário"
+ owned_by_us_tt:0 "Possuído por nós."
+ MERC_CITY_MONARCHY_EFFECT:0 "Se você tiver o tipo de governo #Y Monarquia#!, uma vez a cada #Y 5#! anos, você pode escolher depor o seu atual governante, substituindo-o por um governante pertencente a um de seus #Y Estados Mercenários#!. Isso pode ser feito com uma #Y Interação de Personagem#!, e requer que a #Y Lei de Contrato Mercenário#! esteja promulgada.\n\n"
+ LEAGUE_CITY_STATE_EFFECT_TT:0 "[SCOPE.GetRootScope.GetProvince.GetName|Y] se tornará uma cidade livre da liga, liderada por um governo republicano.\nEles tornar-se-ão nossos súditos, com um bônus para suas rotas comerciais estaduais e produtos comerciais produzidos. Eles não juntar-se-ão a nós em guerras, mas não custarão uma vaga de relações diplomáticas e não podem ser integrados."
+ league_city_title:0 "Criar Cidade da Liga"
+ league_city_desc:0 "Tem certeza de que deseja criar uma Cidade da Liga? Isso criará um súdito a partir de [SCOPE.GetRootScope.GetProvince.GetName|Y]."
+ 

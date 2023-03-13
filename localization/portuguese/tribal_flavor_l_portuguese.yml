@@ -1,0 +1,17 @@
+﻿l_portuguese:
+ tribal_flavour_event.1.t:0 "Uma Briga"
+ tribal_flavour_event.1.desc:0 "Dois de nossos membros da tribo vieram hoje pedir ajuda para resolver a disputa sobre a propriedade de um [ROOT.GetCountry.Custom('get_found_treasure')] de ouro que encontraram. [SCOPE.sChar('duelist_1').GetName] acredita que pertence a [SCOPE.sChar('duelist_1').GetHerHim] porque foi quem o encontrou, enquanto [SCOPE.sChar('duelist_2').GetName] diz que pertence a [SCOPE.sChar('duelist_2').GetHerHim] porque foi descoberto em sua terra."
+ tribal_flavour_event.1.a:0 "Pertence a [SCOPE.sChar('duelist_1').GetName]"
+ tribal_flavour_event.1.b:0 "Pertence a [SCOPE.sChar('duelist_2').GetName]"
+ tribal_flavour_event.1.c:0 "Pertence a [ROOT.GetCountry.GetName]"
+ tribal_flavour_event.1.d:0 "Pertence aos deuses!"
+ string_necklace:0 "colar"
+ string_crown:0 "coroa"
+ string_statue:0 "estátua"
+ string_amphora:0 "âmfora"
+ string_goblet:0 "cálice"
+ tribal_flavour_events.3.t:0 "Colapso do [SCOPE.sC('origin_crisis').GetAdjective]"
+ tribal_flavour_events.3.desc:0 "Notícias chegaram até nós por meio de boatos de que os outrora poderosos [SCOPE.sC('origin_crisis').GetAdjective] caíram em brigas internas, conflitos e lutas desenfreadas pelo poder.\n\nInúmeros chefes locais surgiram das cinzas da crise, talvez oferecendo uma oportunidade para seus vizinhos vigilantes. Os [SCOPE.sC('origin_crisis').GetAdjective] ainda mantêm uma liderança nominal de alguns dos clãs dispersos, agarrando-se desesperadamente à sua hegemonia risível."
+ tribal_flavour_events.3.a:0 "Bárbaros..."
+ target_fallen_tfe3:0 "[SCOPE.sC('origin_crisis').GetName] se dividiu em vários sub-clãs."
+
